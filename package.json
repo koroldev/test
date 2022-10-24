@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/koroldev/test.git",
+  "author": "<ion.korol@otrcapital.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
